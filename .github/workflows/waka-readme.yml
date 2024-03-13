@@ -19,8 +19,4 @@ jobs:
           SECTION_NAME: waka # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: TSConfig JSON # optional
+          IGNORED_LANGUAGES: TSConfig JSON Bash # optional
