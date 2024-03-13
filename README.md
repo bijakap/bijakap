@@ -1,7 +1,7 @@
 ### Hello There 👋
 
 <p align="center">
-        <img src="https://i.kym-cdn.com/photos/images/newsfeed/001/419/870/3a2.gif" alt="Wizard" />
+        <img src="https://i.kym-cdn.com/photos/images/newsfeed/001/419/870/3a2.gif" alt="Wizard" width="134.5" height="175"/>
 </p>
 
 I'm Bijak Algifan Putra, your friendly neighborhood coding novice on a quest to become the ultimate tech wizard
