@@ -1,5 +1,7 @@
 ### Hello There 👋
 
+I'm Bijak Algifan Putra, your friendly neighborhood coding novice on a quest to become the ultimate tech wizard
+
 <!--START_SECTION:waka-->
 
 ```txt
