@@ -9,9 +9,9 @@ I'm Bijak Algifan Putra, your friendly neighborhood coding novice on a quest to 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 August 2023 - To: 17 March 2024
+From: 11 August 2023 - To: 18 March 2024
 
-TypeScript                 118 hrs 5 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.80 %
+TypeScript                 118 hrs 6 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.81 %
 Dart                       113 hrs 25 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.07 %
 JavaScript                 9 hrs 59 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.70 %
 YAML                       3 hrs 30 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.30 %
